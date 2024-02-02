@@ -51,4 +51,8 @@ Email and password authentication for account holders
 Session management for logged in users (users stay logged in for a reasonable period of time after successful authentication)
 
 
+### Full Stack Hiring Assignment
+### Assignment is for Bytive Full Stack developers Hiring drive 2023, assignment includes Required and Stretch Goals. 
+
+
 
