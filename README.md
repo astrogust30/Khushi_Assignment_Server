@@ -21,6 +21,16 @@ Incorporates basic validation measures in sign-up and profile editing forms to e
 
 ![Image 3](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2018.28.57_98b21f18.jpg)
 
+
+![Image 3](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2019.02.37_c8dd74f8.jpg)
+
+![Image 3](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2019.03.24_eaa967dd.jpg)
+
+
+![Image 3](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2019.05.46_1723024c.jpg)
+
+
+
 # Server & Client Configuration Instructions
 To set up a development environment on your local computer for both the server and the client:
 
