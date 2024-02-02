@@ -17,6 +17,12 @@ Manages user sessions, ensuring a reasonable duration of login persistence follo
 8.	Form Data Validation:
 Incorporates basic validation measures in sign-up and profile editing forms to enhance data accuracy and completeness.
 
+![Image 1](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2018.28.56_f6e4bed1.jpg)
+
+![Image 2](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2018.28.57_35b488de.jpg)
+
+![Image 3](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2018.28.57_98b21f18.jpg)
+
 # Server & Client Configuration Instructions
 To set up a development environment on your local computer for both the server and the client:
 
@@ -50,9 +56,9 @@ Users can delete their own account. (They cannot do that for any other profiles)
 Email and password authentication for account holders
 Session management for logged in users (users stay logged in for a reasonable period of time after successful authentication)
 
+![Image 1](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/wireframes_localhost/WhatsApp%20Image%202024-02-02%20at%2018.20.17_2b0527d3.jpg)
+![Image 2](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/wireframes_localhost/WhatsApp%20Image%202024-02-02%20at%2018.20.25_17226713.jpg)
+
 
 ### Full Stack Hiring Assignment
 ### Assignment is for Bytive Full Stack developers Hiring drive 2023, assignment includes Required and Stretch Goals. 
-
-
-
