@@ -1,4 +1,4 @@
-#Capabilities & Characteristics
+# Capabilities & Characteristics
 
 1.	Profile Display:
 Presents a roster of profiles accessible to Guests (unregistered users) and Users (authorized account holders).
@@ -17,10 +17,10 @@ Manages user sessions, ensuring a reasonable duration of login persistence follo
 8.	Form Data Validation:
 Incorporates basic validation measures in sign-up and profile editing forms to enhance data accuracy and completeness.
 
-#Server & Client Configuration Instructions
+# Server & Client Configuration Instructions
 To set up a development environment on your local computer for both the server and the client:
 
-##Server Setup:
+## Server Setup:
 
 Clone the backend repository using Git.
 Open the terminal and navigate to the backend folder.
@@ -28,7 +28,7 @@ Run npm install to install the necessary dependencies.
 Install nodemon for server execution using npm install -g nodemon.
 Start the server by running the command 'nodemon'.
 
-##Client Setup:
+## Client Setup:
 
 Clone the frontend repository using Git.
 Open a new terminal window and navigate to the frontend folder.
